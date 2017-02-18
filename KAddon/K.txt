@@ -1,5 +1,7 @@
 ## Title: K.
 ## APIVersion: 100018
 ## Author: Sam Steele
+## Version: 1.0
+## Description: Make your adventures in Tamriel a bit more sassy by replacing the "Goodbye." dialog option with "K."
 
 K.lua
